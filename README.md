@@ -1,8 +1,7 @@
 # 🎁 Amigo Secreto 
-## Sobre o projeto:
 O projeto permite que você adicione nomes de participantes, exiba a lista de amigos adicionados e realize o sorteio de forma dinâmica.
 
-### Como funciona:
+### 💡 Funcionalidades:
 #### Adicionar Participantes:
 
 - Permite que você adicione nomes dos participantes na lista.
@@ -21,7 +20,7 @@ O projeto permite que você adicione nomes de participantes, exiba a lista de am
 
 - Exibe apenas o nome sorteado, substituindo a lista anterior.
 
-### Como Usar:
+### 📨 Modo de uso:
 
 #### Adicionar Participantes:
 
@@ -52,7 +51,7 @@ O projeto permite que você adicione nomes de participantes, exiba a lista de am
   <img src="https://github.com/Yumi-giuliA/AmigoSecreto/blob/main/exemplo%203%20.png?raw=true" width="500px"/>
 </div> 
 
-### 🛠 Tecnologias e Ferramentas utilizadas:
+### 🛠 Tecnologias e Ferramentas Utilizadas:
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
