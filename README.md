@@ -38,17 +38,17 @@ O projeto permite que você adicione nomes de participantes, exiba a lista de am
 
 ### Tela Inicial:
 <div>
-  <img src="https://github.com/Yumi-giuliA/AmigoSecreto/blob/main/exemplo.png?raw=true" width="500px"/>
+  <img src="https://github.com/Yumi-giuliA/AmigoSecreto/blob/main/img/exemplo.png?raw=true" width="500px"/>
 </div> 
 
 ### Adicionando nomes:
 <div>
-  <img src="https://github.com/Yumi-giuliA/AmigoSecreto/blob/main/exemplo%202.png?raw=true" width="500px"/>
+  <img src="https://github.com/Yumi-giuliA/AmigoSecreto/blob/main/img/exemplo%202.png?raw=true" width="500px"/>
 </div> 
 
 ### Resultado do sorteio:
 <div>
-  <img src="https://github.com/Yumi-giuliA/AmigoSecreto/blob/main/exemplo%203%20.png?raw=true" width="500px"/>
+  <img src="https://github.com/Yumi-giuliA/AmigoSecreto/blob/main/img/exemplo%203%20.png?raw=true" width="500px"/>
 </div> 
 
 ### 🛠 Tecnologias e Ferramentas Utilizadas:
